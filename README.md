@@ -34,6 +34,7 @@ const cart = [
 5. amount が 4 個以上の newCart を作成
 6. type が drink と alcohol のみの newCart を作成
 7. name の orange は何番目か表示
-8. `{ name: 'onion', price: 30, amount: 5, type: 'vegetable' }`を末尾に追加(スプレッド構文を使用)
-9. 合計個数を表示
-10. 合計金額を表示
+8. `{ name: 'onion', price: 30, amount: 5, type: 'vegetable' }`を先頭に追加(スプレッド構文を使用)
+9. `{ name: 'onion', price: 30, amount: 5, type: 'vegetable' }`を末尾に追加(スプレッド構文を使用)
+10. 合計個数を表示
+11. 合計金額を表示
